@@ -1,3 +1,4 @@
+/program for the sum of the digits in given String/
 package Practise_pro;
 
 public class sum_digits
